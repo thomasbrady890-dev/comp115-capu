@@ -76,7 +76,7 @@ print(f"Exercise 3: The average mark is {mark_average}!")
 print("\nExercise 4")  
 
 radius = 2
-area = (3.14*(2*radius))
+area = (3.14*(radius**2))
 print(f"""
  The area of a circle with radius 2 is {area}""")
 
