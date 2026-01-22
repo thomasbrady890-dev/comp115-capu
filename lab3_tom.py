@@ -171,7 +171,7 @@ for rainbow_color in rainbow_colors:
     radius = radius + radius_increase
 alex.shape("blank")
 
-drawing_screen.mainloop() # Wait for the user to close the drawing screen
+drawing_screen.mainloop()
 
 
 """
